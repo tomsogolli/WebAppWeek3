@@ -1,0 +1,23 @@
+body {
+  font-family: "Times New Roman", Times, serif;
+  font-size: 12px;
+  background: tan;
+}
+
+.wiki-image {
+  width: 100%;
+  height: auto;
+}
+.wiki-item {
+  margin: 5px;
+  box-shadow: 10px 10px 10px 5px #797369;
+}
+.wiki-content {
+  padding: 5px;
+}
+#headline {
+  font-size: 30px;
+  font-style: italic;
+  font-family: cursive;
+  box-shadow: 10px 10px 10px 5px #797369;
+}
